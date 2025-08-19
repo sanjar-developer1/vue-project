@@ -44,8 +44,6 @@ export default {
       alert("Yo'qaling")
     }
   }
-
-
 }
 </script>
 <style></style>
